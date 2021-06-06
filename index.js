@@ -1,0 +1,1 @@
+console.log("Hello World to deploy to AWS via CodeDeploy with this code gone to GitHub");
